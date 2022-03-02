@@ -1,0 +1,50 @@
+{
+    "DEV_VERIFICATION_LISTS": {
+        "TIMIT": {
+            "20_MBROLA": [
+                "development"
+            ]
+        }
+    },
+    "DEV_CLUSTERING_LISTS": {
+        "TIMIT": {
+            "20_MBROLA": [
+                "40_speakers"
+            ]
+        }
+    },
+    "FINAL_VERIFICATION": {
+        "REFERENCE": [
+            "EER",
+            "TIMIT",
+            "20_MBROLA",
+            "development"
+        ],
+        "LISTS": {
+            "TIMIT": {
+                "20_MBROLA": [
+                    "development",
+                    "full"
+                ]
+            }
+        }
+    },
+    "FINAL_CLUSTERING": {
+        "REFERENCE": [
+            "MR",
+            "TIMIT",
+            "20_MBROLA",
+            "40_speakers"
+        ],
+        "LISTS": {
+            "TIMIT": {
+                "20_MBROLA": [
+                    "10_speakers",
+                    "20_speakers",
+                    "40_speakers",
+                    "80_speakers"
+                ]
+            }
+        }
+    }
+}

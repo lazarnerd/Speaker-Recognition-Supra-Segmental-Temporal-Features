@@ -1,0 +1,34 @@
+{
+    "DEV_VERIFICATION_LISTS": {
+        "VOX1": {
+            "00_ORIGINAL": [
+                "development_cleaned"
+            ]
+        }
+    },
+    "DEV_CLUSTERING_LISTS": {},
+    "FINAL_VERIFICATION": {
+        "REFERENCE": [
+            "EER",
+            "VOX1",
+            "00_ORIGINAL",
+            "development_cleaned"
+        ],
+        "LISTS": {
+            "VOX1": {
+                "00_ORIGINAL": [
+                    "development",
+                    "development_cleaned",
+                    "hard",
+                    "hard_cleaned",
+                    "extended",
+                    "extended_cleaned"
+                ]
+            }
+        }
+    },
+    "FINAL_CLUSTERING": {
+        "REFERENCE": [],
+        "LISTS": {}
+    }
+}

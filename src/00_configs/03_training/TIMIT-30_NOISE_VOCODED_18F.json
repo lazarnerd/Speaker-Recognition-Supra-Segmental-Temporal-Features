@@ -1,0 +1,6 @@
+{
+    "DATASET": "TIMIT",
+    "SUBSET": "30_NOISE_VOCODED_18F",
+    "AUDIO_LIST_TRAIN": "02_train",
+    "AUDIO_LIST_VAL": "03_val"
+}

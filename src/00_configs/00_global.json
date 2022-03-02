@@ -1,0 +1,9 @@
+{
+    "MEDIA": {
+        "DATASET_PATH": "/path/to/quick/storage/",
+        "MASS_DATASET_PATH": "/path/to/mass/storage/",
+        
+        "SAMPLER_PROCESSES": 50,
+        "SETUP_INCREMENT_STEPS": 100000
+    }
+}

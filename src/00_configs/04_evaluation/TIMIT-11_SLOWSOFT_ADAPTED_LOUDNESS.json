@@ -1,0 +1,50 @@
+{
+    "DEV_VERIFICATION_LISTS": {
+        "TIMIT": {
+            "11_SLOWSOFT_ADAPTED_LOUDNESS": [
+                "development"
+            ]
+        }
+    },
+    "DEV_CLUSTERING_LISTS": {
+        "TIMIT": {
+            "11_SLOWSOFT_ADAPTED_LOUDNESS": [
+                "40_speakers"
+            ]
+        }
+    },
+    "FINAL_VERIFICATION": {
+        "REFERENCE": [
+            "EER",
+            "TIMIT",
+            "11_SLOWSOFT_ADAPTED_LOUDNESS",
+            "development"
+        ],
+        "LISTS": {
+            "TIMIT": {
+                "11_SLOWSOFT_ADAPTED_LOUDNESS": [
+                    "development",
+                    "full"
+                ]
+            }
+        }
+    },
+    "FINAL_CLUSTERING": {
+        "REFERENCE": [
+            "MR",
+            "TIMIT",
+            "11_SLOWSOFT_ADAPTED_LOUDNESS",
+            "40_speakers"
+        ],
+        "LISTS": {
+            "TIMIT": {
+                "11_SLOWSOFT_ADAPTED_LOUDNESS": [
+                    "10_speakers",
+                    "20_speakers",
+                    "40_speakers",
+                    "80_speakers"
+                ]
+            }
+        }
+    }
+}

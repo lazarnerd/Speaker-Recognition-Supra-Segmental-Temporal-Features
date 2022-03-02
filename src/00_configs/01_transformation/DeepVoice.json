@@ -1,0 +1,14 @@
+{
+    "TYPE": "MEL_SPECTROGRAM",
+
+    "PRE_EMPHASIS": 0.0,
+
+    "NFFT": 1024,
+    "WINDOW": "hann",
+    "FRAME_LENGTH": 0.064,
+    "FRAME_STEP": 0.01,
+
+    "N_MELS": 128,
+    "FMIN": 0,
+    "FMAX": 8000
+}

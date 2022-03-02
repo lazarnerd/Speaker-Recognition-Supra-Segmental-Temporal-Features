@@ -1,0 +1,10 @@
+{
+    "TYPE": "SPECTROGRAM",
+
+    "PRE_EMPHASIS": 0.0,
+
+    "NFFT": 512,
+    "WINDOW": "hamming",
+    "FRAME_LENGTH": 0.025,
+    "FRAME_STEP": 0.01
+}

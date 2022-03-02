@@ -1,0 +1,50 @@
+{
+    "DEV_VERIFICATION_LISTS": {
+        "TIMIT": {
+            "30_NOISE_VOCODED_08F": [
+                "development"
+            ]
+        }
+    },
+    "DEV_CLUSTERING_LISTS": {
+        "TIMIT": {
+            "30_NOISE_VOCODED_08F": [
+                "40_speakers"
+            ]
+        }
+    },
+    "FINAL_VERIFICATION": {
+        "REFERENCE": [
+            "EER",
+            "TIMIT",
+            "30_NOISE_VOCODED_08F",
+            "development"
+        ],
+        "LISTS": {
+            "TIMIT": {
+                "30_NOISE_VOCODED_08F": [
+                    "development",
+                    "full"
+                ]
+            }
+        }
+    },
+    "FINAL_CLUSTERING": {
+        "REFERENCE": [
+            "MR",
+            "TIMIT",
+            "30_NOISE_VOCODED_08F",
+            "40_speakers"
+        ],
+        "LISTS": {
+            "TIMIT": {
+                "30_NOISE_VOCODED_08F": [
+                    "10_speakers",
+                    "20_speakers",
+                    "40_speakers",
+                    "80_speakers"
+                ]
+            }
+        }
+    }
+}

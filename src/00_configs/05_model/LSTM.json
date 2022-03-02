@@ -1,0 +1,8 @@
+{
+    "TYPE": "LSTM",
+    "SHAPE": ["T", "F"],
+    "CUT": "BACKEND",
+    "ALLOW_FULL": true,
+    "RETURN_SEQUENCES": false,
+    "WEIGHT_DECAY": 1e-4
+}

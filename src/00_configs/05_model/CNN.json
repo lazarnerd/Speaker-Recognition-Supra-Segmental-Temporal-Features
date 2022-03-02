@@ -1,0 +1,7 @@
+{
+    "TYPE": "CNN",
+    "SHAPE": ["T", "F", 1],
+    "CUT": "BACKEND",
+    "ALLOW_FULL": false,
+    "WEIGHT_DECAY": 1e-4
+}

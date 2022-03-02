@@ -1,0 +1,7 @@
+{
+    "TYPE": "GHOST_VLAD",
+    "ACTIVATION": "relu",
+    "BOTTLENECK": 512,
+    "VLAD_CLUSTERS": 10,
+    "GHOST_CLUSTERS": 2
+}

@@ -1,0 +1,5 @@
+{
+    "TYPE": "BOTTLENECK_ONLY",
+    "ACTIVATION": "relu",
+    "BOTTLENECK": 512
+}

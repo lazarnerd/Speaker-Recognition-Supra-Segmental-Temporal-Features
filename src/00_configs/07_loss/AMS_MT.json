@@ -1,0 +1,8 @@
+{
+    "TYPE": "ANGULAR_MARGIN",
+
+    "MARGIN_COSFACE": 0.3,
+    "MARGIN_ARCFACE": 0.0,
+    "MARGIN_SPHEREFACE": 1.0,
+    "SCALE": 40
+}

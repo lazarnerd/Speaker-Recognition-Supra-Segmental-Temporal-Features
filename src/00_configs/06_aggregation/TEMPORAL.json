@@ -1,0 +1,5 @@
+{
+    "TYPE": "TEMPORAL",
+    "ACTIVATION": "relu",
+    "BOTTLENECK": 512
+}

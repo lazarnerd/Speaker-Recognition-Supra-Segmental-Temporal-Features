@@ -1,0 +1,7 @@
+{
+    "TYPE": "RESNET34S",
+    "SHAPE": ["F", "T", 1],
+    "CUT": "AGGREGATION",
+    "ALLOW_FULL": true,
+    "WEIGHT_DECAY": 1e-4
+}

@@ -1,0 +1,10 @@
+{
+    "TRANSFORMATION": "ResNet",
+    "DATA": "DRC_S_1",
+    "TRAINING": "TIMIT-00_ORIGINAL",
+    "EVALUATION": "TIMIT-00_ORIGINAL",
+    "MODEL": "RES34S",
+    "AGGREGATION": "GVLAD",
+    "LOSS": "AMS_MT",
+    "OPTIMIZER": "ADAM_0.0001"
+}

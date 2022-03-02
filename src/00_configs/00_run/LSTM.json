@@ -1,0 +1,10 @@
+{
+    "TRANSFORMATION": "DeepVoice",
+    "DATA": "DRC_S_1",
+    "TRAINING": "TIMIT-00_ORIGINAL",
+    "EVALUATION": "TIMIT-00_ORIGINAL",
+    "MODEL": "LSTM",
+    "AGGREGATION": "LSTM",
+    "LOSS": "AMS_MT",
+    "OPTIMIZER": "ADAM_0.0001"
+}
